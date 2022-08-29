@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3298](https://github.com/is-a-dev/register/pull/3298) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❌ Closed PR [#3288](https://github.com/is-a-dev/register/pull/3288) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#3288](https://github.com/is-a-dev/register/issues/3288) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#3288](https://github.com/is-a-dev/register/pull/3288) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#58](https://github.com/5MysterySD/Tele-LeechX/pull/58) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+1. ❌ Closed PR [#60](https://github.com/5MysterySD/Tele-LeechX/pull/60) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+2. 💪 Opened PR [#59](https://github.com/5MysterySD/Tele-LeechX/pull/59) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+3. 💪 Opened PR [#3298](https://github.com/is-a-dev/register/pull/3298) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❌ Closed PR [#3288](https://github.com/is-a-dev/register/pull/3288) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#3288](https://github.com/is-a-dev/register/issues/3288) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ---

@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/5MysterySD/Tele-LeechX/pull/63) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
-2. 🎉 Merged PR [#64](https://github.com/5MysterySD/Tele-LeechX/pull/64) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
-3. 💪 Opened PR [#63](https://github.com/5MysterySD/Tele-LeechX/pull/63) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
-4. ❌ Closed PR [#61](https://github.com/5MysterySD/Tele-LeechX/pull/61) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
-5. 🎉 Merged PR [#62](https://github.com/5MysterySD/Tele-LeechX/pull/62) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+1. 💪 Opened PR [#34](https://github.com/codewithweeb/WeebZone/pull/34) in [codewithweeb/WeebZone](https://github.com/codewithweeb/WeebZone)
+2. 🎉 Merged PR [#63](https://github.com/5MysterySD/Tele-LeechX/pull/63) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+3. 🎉 Merged PR [#64](https://github.com/5MysterySD/Tele-LeechX/pull/64) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+4. 💪 Opened PR [#63](https://github.com/5MysterySD/Tele-LeechX/pull/63) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+5. ❌ Closed PR [#61](https://github.com/5MysterySD/Tele-LeechX/pull/61) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
 <!--END_SECTION:activity-->
 
 ---

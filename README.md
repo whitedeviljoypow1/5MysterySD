@@ -71,7 +71,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/codewithweeb/WeebZone/pull/34) in [codewithweeb/WeebZone](https://github.com/codewithweeb/WeebZone)
+1. 💪 Opened PR [#66](https://github.com/5MysterySD/Tele-LeechX/pull/66) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
 2. 🎉 Merged PR [#63](https://github.com/5MysterySD/Tele-LeechX/pull/63) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
 3. 🎉 Merged PR [#64](https://github.com/5MysterySD/Tele-LeechX/pull/64) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
 4. 💪 Opened PR [#63](https://github.com/5MysterySD/Tele-LeechX/pull/63) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)

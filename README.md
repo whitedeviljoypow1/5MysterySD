@@ -71,7 +71,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/5MysterySD/Tele-LeechX/issues/1) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
+1. ❌ Closed PR [#38](https://github.com/codewithweeb/WeebZone/pull/38) in [codewithweeb/WeebZone](https://github.com/codewithweeb/WeebZone)
 2. 🗣 Commented on [#1](https://github.com/5MysterySD/Tele-LeechX/issues/1) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
 3. 🎉 Merged PR [#1](https://github.com/5MysterySD/Tele-LeechX/pull/1) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
 4. 🎉 Merged PR [#70](https://github.com/5MysterySD/Tele-LeechX/pull/70) in [5MysterySD/Tele-LeechX](https://github.com/5MysterySD/Tele-LeechX)
